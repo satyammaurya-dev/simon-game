@@ -1,0 +1,55 @@
+.findHighestScore{
+    text-align: right;
+    margin-right: 10px;
+}
+
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.btn-container{
+    width:250px;
+    height:230px;
+    display:grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.red{
+    background-color: rgb(211, 104, 104);
+    width:100px;
+    height:100px;
+    margin:0.25rem;
+    border: 3px solid black;
+    border-radius: 15px;
+}
+.green{
+    background-color: rgb(133, 195, 133);
+    width:100px;
+    height:100px;
+    margin:0.25rem;
+    border: 3px solid black;
+    border-radius: 15px;
+}
+.yellow{
+    background-color: rgb(247, 164, 81);
+    width:100px;
+    height:100px;
+    margin:0.25rem;
+    border: 3px solid black;
+    border-radius: 15px;
+}
+.blue{
+    background-color:rgb(120, 120, 212) ;
+    width:100px;
+    height:100px;
+    margin:0.25rem;
+    border: 3px solid black;
+    border-radius: 15px;
+}
+.flashStyle{
+    background-color: white;
+}
+.bodyStyle{
+    background-color: red;
+}
