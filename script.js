@@ -100,7 +100,16 @@ function reset() {
     });
 }
 
+let start_btn = document.querySelector(".start-btn");
+start_btn.addEventListener("click",() => {
+    if (started == false) {
+        started = true;
 
+        levelUp();
+
+
+    }
+});
 
 
 
