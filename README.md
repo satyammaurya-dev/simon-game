@@ -94,20 +94,6 @@ If you click a different color, the game is over.
 
 ---
 
-## 📂 Project Structure
-
-```text
-Simon-Game/
-│
-├── index.html
-├── style.css
-├── app.js
-│
-└── README.md
-```
-
----
-
 ## 🧠 Game Logic
 
 The JavaScript maintains two important sequences:
