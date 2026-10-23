@@ -4,6 +4,10 @@ A simple and interactive **Simon Color Flash Game** built using **HTML, CSS, and
 
 The game tests the player's **memory and concentration** by generating a sequence of colored flashes. The player has to remember the sequence and click the colors in the correct order.
 
+## 🌐 Live Demo
+
+👉 https://simon-game-satyam.vercel.app/
+
 ## 🚀 Live Gameplay
 
 **Game Type:** Memory / Color Sequence Game
